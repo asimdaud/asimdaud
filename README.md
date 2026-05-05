@@ -20,6 +20,7 @@
 
 | Project | What it does | Stack | Live |
 |---|---|---|---|
+| **Veridian Turf — Luxury Synthetic Turf Site** | Commercial landing page with a 2D canvas estimator (trace a lawn shape → instant cost estimate), UK pricing calculator, multi-step quote modal, before/after slider, and a protected admin CMS — control every section, swap themes, and export config as JSON | React 18 · Vite · Tailwind CSS · Framer Motion · Radix UI | [↗](https://astro-turf-web-app.vercel.app) |
 | **Arran & Emily Hair — Voice Assistant** | Browser-based AI receptionist that books salon appointments by voice. Hands-free VAD, barge-in, multi-turn context, live calendar updates | Python · React · OpenAI · Groq · Claude | [↗](https://voice-assistant-indol-eight.vercel.app) |
 | **Ground Plan** | Interactive floor-plan cost estimator — draw on PDFs, get real-time costings | React · TypeScript · Konva.js · PDF.js | — |
 | **Fatigue Management App** | Roster tool with real-time HSE Fatigue & Risk Index compliance checking | React · Next.js · TypeScript | — |
