@@ -64,6 +64,7 @@
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=asimdaud&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asimdaud&theme=dark" alt="GitHub Streak" /></a>
 
 <div align="center">
   <img width="47%" src="https://github-readme-stats-taupe-alpha-92.vercel.app/api/top-langs/?username=asimdaud&theme=github_dark&hide_border=true&layout=compact" />
