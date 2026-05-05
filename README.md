@@ -59,10 +59,10 @@
 ## Stats
 
 <div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=asimdaud&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=asimdaud&theme=github_dark&hide_border=true" />
+  <img width="47%" src="https://github-readme-stats-taupe-alpha-92.vercel.app/api?username=asimdaud&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img width="47%" src="https://streak-stats.demolab.com/?user=asimdaud&theme=github_dark&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimdaud&theme=github_dark&hide_border=true&layout=compact" />
+  <img width="47%" src="https://github-readme-stats-taupe-alpha-92.vercel.app/api/top-langs/?username=asimdaud&theme=github_dark&hide_border=true&layout=compact" />
 </div>
