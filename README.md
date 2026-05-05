@@ -63,6 +63,8 @@
   <img width="47%" src="https://streak-stats.demolab.com/?user=asimdaud&theme=github_dark&hide_border=true&v=2" alt="Streak stats — temporarily unavailable" />
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=asimdaud&theme=dark)](https://git.io/streak-stats)
+
 <div align="center">
   <img width="47%" src="https://github-readme-stats-taupe-alpha-92.vercel.app/api/top-langs/?username=asimdaud&theme=github_dark&hide_border=true&layout=compact" />
 </div>
