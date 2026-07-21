@@ -12,7 +12,7 @@
 
 ---
 
-2+ years building interactive, data-driven web applications. I work across the stack — from pixel-level UI to cloud infrastructure and AI service integration. Based in the United Kingdom.
+Almost 3 years building interactive, data-driven web applications. I work across the stack — from pixel-level UI to cloud infrastructure and AI service integration. Based in the United Kingdom.
 
 ---
 
