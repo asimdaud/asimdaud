@@ -35,7 +35,7 @@ Most of my source code is private (client work and live business data), so the b
 
 | Project | What it does | Stack | Demo |
 |---|---|---|---|
-| **Recepto** | Multi-tenant AI receptionist: books, takes orders, quotes jobs, escalates; risky outputs are verified or replaced | Python · FastAPI · PostgreSQL · Next.js | [↗](https://receptio-v3.vercel.app/) |
+| **Recepto** | Multi-tenant AI receptionist: books, takes orders, quotes jobs, escalates; risky outputs are verified or replaced | Python · FastAPI · PostgreSQL · Next.js | [↗](https://recepto-49.vercel.app/) |
 | **Floorplan Takeoff** | Browser-based construction takeoff and estimator across 11 trades, no backend | React · TypeScript · Konva.js · PDF.js · Zustand | [↗](https://floorplan-takeoff.vercel.app/) |
 | **Travelways International** (live client site) | Travel agency site with admin CMS, 3D globe and SEO tooling | Next.js 15 · TypeScript · Three.js | [↗](https://travelways.pk/) |
 | **Veridian Turf** | Landing page with a canvas lawn estimator, UK pricing calculator and admin CMS | React 18 · Vite · Tailwind CSS | [↗](https://astro-turf-web-app.vercel.app) |
