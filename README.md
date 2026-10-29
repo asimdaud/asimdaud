@@ -39,8 +39,8 @@ Most of my source code is private (client work and live business data), so the b
 | **Floorplan Takeoff** | Browser-based construction takeoff and estimator across 11 trades, no backend | React · TypeScript · Konva.js · PDF.js · Zustand | [↗](https://floorplan-takeoff.vercel.app/) |
 | **Travelways International** (live client site) | Travel agency site with admin CMS, 3D globe and SEO tooling | Next.js 15 · TypeScript · Three.js | [↗](https://travelways.pk/) |
 | **Veridian Turf** | Landing page with a canvas lawn estimator, UK pricing calculator and admin CMS | React 18 · Vite · Tailwind CSS | [↗](https://astro-turf-web-app.vercel.app) |
-| **Hair Salon Voice Assistant** | Earlier Python multi-tenant receptionist (5 business types, LangGraph booking, RAG) | Python · Gemini · Groq · LangGraph | [↗](https://voice-assistant-indol-eight.vercel.app) |
-| **SquarePad** | Social network demo: feed, profiles, messaging, groups, admin dashboard | React · Vite · Firebase | [↗](https://squarepad-demo-fix.web.app) |
+| **Hair Salon Voice Assistant (2024)** | Earlier Python multi-tenant receptionist (5 business types, LangGraph booking, RAG) | Python · Gemini · Groq · LangGraph | [↗](https://voice-assistant-indol-eight.vercel.app) |
+| **SquarePad Demo Only (2020)** | Social network demo: feed, profiles, messaging, groups, admin dashboard | React · Vite · Firebase | [↗](https://squarepad-demo-fix.web.app) |
 
 ---
 
